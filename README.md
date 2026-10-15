@@ -2,6 +2,17 @@
 
 Assignments for UvA's BKI course on PGMs.
 
+We are using python3.14, here is a setup with venv
+```bash
+python3.14 -m venv ~/envs/pgms2026
+source ~/envs/pgms2026/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+jupyter lab
+```
+
+# Syllabus
+
 The lecture slides (which are referred to in assignments) can be found under `./lectures/`.
 
 | Week | Topic | HCa | LC | HCb | WC | Friday |

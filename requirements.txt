@@ -1,0 +1,7 @@
+jupyter
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+git+https://github.com/probabll/pgmini.git
