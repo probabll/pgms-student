@@ -4,4 +4,5 @@ scipy
 matplotlib
 seaborn
 pandas
+tabulate
 git+https://github.com/probabll/pgmini.git
